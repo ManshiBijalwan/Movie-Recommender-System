@@ -14,7 +14,7 @@ env:
   NPMRegistry: https://registry.npmjs.org/
   InstallCommand: npm i
   BuildCommand: npm run build
-  Output: https://github.com/ManshiBijalwan/Movie-Recommender-System/blob/master/Ourteam.py
+  Output: ./dist
 
 jobs:
   build:
